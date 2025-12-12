@@ -1,0 +1,10 @@
+Przenioslam nasze pliki do stosowynych folderow - src i testy.
+Dodalam jeszcze Makefile.
+Do wywolania konfliktu korzystalismy z pliku main.c - zmienialismy ta sama
+linijke i na koniec, kiedy github pokazal konflikt przy probie zlaczeniu 
+plikow, zmienilam juz na poprawna linijke w kodzie, zeby sie nie zepsulo.
+
+Pliki plik.c i JIMPY.c byly stworzone do pierwszego cwiczenia na labie,
+one sa nieistotne w kontekscie tego zadania.
+
+Lena Dolinska
